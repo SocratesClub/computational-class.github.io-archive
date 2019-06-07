@@ -1543,7 +1543,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1760,7 +1760,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #232323 !important;
 }
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/background4.jpg");
@@ -1789,65 +1789,6 @@ body {
 .cid-rgqOqbVKma .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
-}
-.cid-rn19KUG7lM {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rn19KUG7lM .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rn19KUG7lM .mbr-content-text {
-  color: #767676;
-}
-.cid-rn19KUG7lM .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rn19KUG7lM .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-rn19KUG7lM .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-.cid-rn19KUG7lM .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-rn19KUG7lM .media-block {
-    padding-right: 2rem;
-  }
-}
-.cid-rn19KUG7lM .cards-block {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rn19KUG7lM .card-img {
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-@media (max-width: 991px) {
-  .cid-rn19KUG7lM .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-left: 0;
-    padding-bottom: 2rem;
-  }
 }
 .cid-rgqOsJBO3x {
   padding-top: 90px;
@@ -1991,30 +1932,4 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-rgqUIEpczz .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rgqUIEpczz .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rgqUIEpczz .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rgqUIEpczz .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rgqUIEpczz .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
